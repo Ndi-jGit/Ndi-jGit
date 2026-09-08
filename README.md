@@ -1,6 +1,5 @@
 #  Hi, I'm Josiah Ndirangu
 
- Computer Technology Graduate |  Cybersecurity Enthusiast | 🤖 AI/ML Explorer
 
 *  Passionate about **Cybersecurity, AI/ML, and emerging technologies**
 *  Building practical solutions through **programming and personal projects**
